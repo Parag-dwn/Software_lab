@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [33mcommit ac9dde1d3b8965be4f422533c0aa894d7e148c37[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
 Author: Parag-dwn <paragdewangan1@gmail.com>
 Date:   Mon May 2 04:16:43 2022 +0000
@@ -30,3 +31,5 @@ Date:   Mon Apr 18 05:43:48 2022 +0000
 
 funciton2: this is update2:
 
+=======
+>>>>>>> parent of ac9dde1 (test1.java)
